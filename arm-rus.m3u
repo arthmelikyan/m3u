@@ -1,0 +1,82 @@
+#EXTM3U
+#EXTINF:0,U!Premium ATV
+#EXTGRP:Армянский
+http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:0,Armenia Comedy ATV
+#EXTGRP:Армянский
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:0,Cineman ATV
+#EXTGRP:Кино
+http://ott-cdn.ucom.am/s66/04.m3u8
+#EXTINF:0,Filmzone ATV
+#EXTGRP:Кино
+http://ott-cdn.ucom.am/s48/04.m3u8
+#EXTINF:0,Kinoman ATV
+#EXTGRP:Кино
+http://ott-cdn.ucom.am/s94/04.m3u8
+#EXTINF:0,Arm News/Film
+#EXTGRP:Армянский
+http://ott-cdn.ucom.am/s11/index.m3u8
+#EXTINF:-1, Армения H1
+#EXTGRP:Армянский
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v2a1/index.m3u8
+#EXTINF:0,H1
+#EXTGRP:Армянский
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+#EXTINF:0,H2
+#EXTGRP:Армянский
+http://ott-cdn.ucom.am/s2/04.m3u8
+#EXTINF:0,H3
+#EXTGRP:Армянский
+http://ott-cdn.ucom.am/s12/04.m3u8
+#EXTINF:0,Azatutyun TV
+#EXTGRP:Армянский
+http://ott-cdn.ucom.am/s3/04.m3u8
+#EXTINF:0,Armenia TV
+#EXTGRP:Армянский
+http://ott-cdn.ucom.am/s4/04.m3u8
+#EXTINF:0,Live 5
+#EXTGRP:Армянский
+http://ott-cdn.ucom.am/s6/04.m3u8
+#EXTINF:0,Erkir media
+#EXTGRP:Армянский
+http://ott-cdn.ucom.am/s7/04.m3u8
+#EXTINF:0, Ar TV + Live 5 +
+#EXTGRP:Армянский
+http://ott-cdn.ucom.am/s9/04.m3u8
+#EXTINF:0,Dar 21
+#EXTGRP:Армянский
+http://ott-cdn.ucom.am/s10/04.m3u8
+#EXTINF:0,Shoxakat
+#EXTGRP:Армянский
+http://ott-cdn.ucom.am/s13/04.m3u8
+#EXTINF:0, ATV
+#EXTGRP:Армянский
+http://ott-cdn.ucom.am/s8/index.m3u8
+#EXTINF:0, AmgaTV.us
+#EXTGRP:Армянский
+https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
+#EXTINF:0, Tuntunik
+#EXTGRP: Армянский
+http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:0, Nor Hayastan
+#EXTGRP: Армянский
+http://ott-cdn.ucom.am/s12/index.m3u8
+#EXTINF:0,Haykino ATV
+#EXTGRP:Армянский
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:0,Haykino
+#EXTGRP:Армянский
+http://ott-cdn.ucom.am/s22/04.m3u8
+#EXTINF:0,JAN TV
+#EXTGRP:Музыка
+http://ott-cdn.ucom.am/s42/04.m3u8
+#EXTINF:0,Hay TV
+#EXTGRP:Музыка
+http://ott-cdn.ucom.am/s73/04.m3u8
+#EXTINF:0,Hay Tv Music
+#EXTGRP:Музыка
+http://ott-cdn.ucom.am/s73/index.m3u8
+#EXTINF:-1, Армения Radio Van 103.0 FM Yerevan
+#EXTGRP:Музыка
+http://stream.radiovan.fm/stream/index.m3u8
