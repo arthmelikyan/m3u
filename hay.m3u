@@ -1,6 +1,6 @@
 #EXTINF:-1 tvg-id="1tvvvv" group-title="Haykakan" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",1tvvvv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-https://srv3.gisher.org/tv/h1.m3u8?t=ThJmOW19Lirdf7QcBoXmtQ&e=1694465640
+https://srv3.gisher.org/tv/h1.m3u8
 
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/am.xml"
 #EXTINF:-1 tvg-id="www.1tv.am" tvg-logo="https://armfilm.co/uploads/posts/2020-05/1590401537_1.jpg" group-title="Haykakan" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",H1
