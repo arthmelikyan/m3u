@@ -85,6 +85,10 @@ http://ott-cdn.ucom.am/s11/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s7/index.m3u8
 
+#EXTINF:-1 tvg-id="5rdalik" tvg-logo="https://5tv.am//css/images/main_logo.png" group-title="Haykakan" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",5րդ ալիք
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://live-5tvam.cdnvideo.ru/5tvam/5tvam/playlist.m3u8
+
 #EXTINF:-1 tvg-id="KentronTV.am" tvg-logo="https://i.imgur.com/SrHncfk.png" group-title="Haykakan" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Կենտրոն (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s5/index.m3u8
