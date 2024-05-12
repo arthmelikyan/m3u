@@ -2,6 +2,10 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://amtv.tulixcdn.com/amtv1/am1abr/index.m3u8
 
+#EXTINF:-1 tvg-id="www.1tv1.am" tvg-logo="https://armfilm.co/uploads/posts/2020-05/1590401537_1.jpg" group-title="Haykakan" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148", H1 V2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
+
 #EXTINF:-1 tvg-id="21TV.am" tvg-logo="https://i.imgur.com/NV6ZeW9.png" group-title="Haykakan" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",21TV (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s10/index.m3u8
